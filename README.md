@@ -1,4 +1,4 @@
-# Day 1 - YOLO Environment Setup and Basic Object Detection
+# Week 1 - YOLO Environment Setup and Basic Object Detection
 
 ## Objective
 To set up the YOLO environment and run the first object detection task as part of the internship.
@@ -69,7 +69,7 @@ and confirmed that the GPU was being used during inference.
 While running Jupyter Notebook, I had to learn how to navigate to the correct working directory (my project folder) before executing YOLO commands. Once I understood that process, the workflow became smooth.
 
 6.Isolated Dependency Installation
-With guidance from my mentor (ChatGPT Assistant), I learned to install all required dependencies inside a dedicated Conda environment instead of globally. This ensured that other projects and system Python installations weren’t affected by version conflicts, keeping my setup clean and stable.
+I learned to install all required dependencies inside a dedicated Conda environment instead of globally. This ensured that other projects and system Python installations weren’t affected by version conflicts, keeping my setup clean and stable.
 
 ## Learning Outcome:-
 
