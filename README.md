@@ -1,4 +1,4 @@
-# IIITH Internship – Computer Vision Tasks
+#  Computer Vision Tasks
 
 ## 📘 Overview
 This repository contains all weekly tasks completed.
